@@ -4,10 +4,11 @@ CakeRobot
 CakeRobot is an Arduino + Kinect Gesture Controlled Robot
 
 
+**Intro**
+
 Watch This Video:
 
 http://www.youtube.com/watch?v=ObEGB-chAnQ
-
 
 Here is the list of components you need to build CakeRobot.
 
@@ -24,6 +25,13 @@ Here is the list of components you need to build CakeRobot.
  * Tools
  * Few star screw drivers
  * Duct tapes/rubber bands (yea, we are prototyping so no soldering as of now)
+ * 
+ 
+**Tutorial**
+
+Here is a write up about components, assembling, and source code.
+
+http://www.amazedsaint.com/2013/10/cakerobot-gesture-driven-robot-that.html
 
 
 
